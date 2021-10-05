@@ -7,3 +7,4 @@ helper_functions.c
 parser.c
 print_number.c
 printf.c
+main.c
