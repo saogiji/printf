@@ -1,1 +1,9 @@
 *~
+_write_char.c
+a.out
+bases.c
+format_specifiers.c
+helper_functions.c
+parser.c
+print_number.c
+printf.c
